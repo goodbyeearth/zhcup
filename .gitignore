@@ -1,6 +1,7 @@
 data/
 result*
 nohup*
+feature/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
