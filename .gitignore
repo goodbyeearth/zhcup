@@ -3,6 +3,7 @@ result*
 nohup*
 feature/
 temp/
+temp2/
 model/
 # Byte-compiled / optimized / DLL files
 __pycache__/
