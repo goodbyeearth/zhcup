@@ -6,8 +6,14 @@ temp*
 model/
 fi/
 *.pkl
+<<<<<<< HEAD
 feature_test_2_ori/
 voygern/
+=======
+bak/
+model_bak/
+feature_test_2_ori/
+>>>>>>> eed18d6427642b71f888050a6749e6fe3bf1e86a
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
