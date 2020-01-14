@@ -5,6 +5,10 @@ feature/
 temp*
 model/
 fi/
+*.pkl
+feature_test_2_ori/
+voygern/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
